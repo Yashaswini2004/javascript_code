@@ -15,3 +15,4 @@ const myObj={
     marks:23
 };
 console.log(typeof myObj);
+console.log(myObj);
