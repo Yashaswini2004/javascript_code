@@ -13,5 +13,7 @@ const s_name=" yashaswini  ";
 console.log(s_name);
 console.log(s_name.trim());
 const url="https://google.com/yash";
-console.log(url.replace("/yash"," "));
-
+// console.log(url.replace("/yash"," "));
+// console.log(url.includes('yashaswini'));
+console.log(url.split('/'));
+console.log(url.small());
